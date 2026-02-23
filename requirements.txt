@@ -1,4 +1,6 @@
-fastapi
+﻿fastapi
 uvicorn
 sqlalchemy
 pymysql
+streamlit
+requests
